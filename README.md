@@ -4,6 +4,8 @@ Discord bot created with discord.js library. It plays music from youtube and doe
 
 ## Usage
 
+Firstly you need bot to control, then add its token to bot.js file in line 21.
+
 ```bash
 npm i
 node bot.js
