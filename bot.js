@@ -18,4 +18,4 @@ client.on('message', message => {
     Dispatcher.dispatch(commandName, message, args)
 });
 
-client.login('NzkwMjYwMjE3MjY1OTEzODk2.GRx2VR.0u_r1fjv3Yu22Ky2ltIBP9SVcQ1tcTAzpDPYzE');
+client.login('token');
